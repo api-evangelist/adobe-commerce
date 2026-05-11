@@ -1,0 +1,81 @@
+aid: adobe-commerce
+name: Adobe Commerce
+description: >-
+  Adobe Commerce (formerly Magento Commerce) is an enterprise e-commerce
+  platform for building and operating online storefronts, marketplaces, and
+  B2B/B2C catalogs across web, mobile, and headless experiences. The Adobe
+  Commerce Web APIs expose REST and GraphQL access to products, categories,
+  customers, carts, orders, inventory, and configuration with OAuth 1.0a and
+  token-based (Bearer) authentication against a merchant-hosted base URL.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - E-commerce
+  - Commerce
+  - Magento
+  - Adobe
+  - Online Store
+  - Marketplace
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/adobe-commerce/refs/heads/main/apis.yml
+created: '2026-05-11'
+modified: '2026-05-11'
+specificationVersion: '0.19'
+apis:
+  - aid: adobe-commerce:adobe-commerce-rest-api
+    name: Adobe Commerce REST API
+    description: >-
+      REST API for Adobe Commerce providing access to products, catalogs,
+      categories, customers, carts, checkout, orders, inventory, sales rules,
+      CMS content, and store configuration. Endpoints follow the pattern
+      /rest/{store_code}/V1/* on a merchant-hosted Commerce instance with
+      token-based Bearer authentication or OAuth 1.0a for third-party apps.
+    humanURL: https://developer.adobe.com/commerce/webapi/rest/
+    baseURL: https://{commerce_host}/rest/{store_code}/V1
+    tags:
+      - E-commerce
+      - REST
+      - Products
+      - Orders
+      - Customers
+    properties:
+      - type: Documentation
+        url: https://developer.adobe.com/commerce/webapi/rest/
+      - type: API Reference
+        url: https://developer.adobe.com/commerce/webapi/rest/reference/
+      - type: Authentication
+        url: https://developer.adobe.com/commerce/webapi/get-started/authentication/gs-authentication-token/
+  - aid: adobe-commerce:adobe-commerce-graphql-api
+    name: Adobe Commerce GraphQL API
+    description: >-
+      GraphQL API for Adobe Commerce optimized for headless storefronts,
+      progressive web apps, and mobile experiences. Provides queries and
+      mutations for products, categories, carts, checkout, customers, and
+      orders against a merchant-hosted Commerce GraphQL endpoint.
+    humanURL: https://developer.adobe.com/commerce/webapi/graphql/
+    baseURL: https://{commerce_host}/graphql
+    tags:
+      - E-commerce
+      - GraphQL
+      - Headless Commerce
+    properties:
+      - type: Documentation
+        url: https://developer.adobe.com/commerce/webapi/graphql/
+common:
+  - type: Website
+    url: https://business.adobe.com/products/magento/magento-commerce.html
+  - type: Documentation
+    url: https://developer.adobe.com/commerce/webapi/
+  - type: Developer Portal
+    url: https://developer.adobe.com/commerce/
+  - type: Sign Up
+    url: https://business.adobe.com/products/magento/get-started.html
+  - type: Pricing
+    url: https://business.adobe.com/products/magento/magento-commerce.html
+  - type: Support
+    url: https://experienceleague.adobe.com/en/docs/commerce
+  - type: GitHub Organization
+    url: https://github.com/magento
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
