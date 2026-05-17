@@ -41,7 +41,7 @@ apis:
     properties:
       - type: Documentation
         url: https://developer.adobe.com/commerce/webapi/rest/
-      - type: API Reference
+      - type: APIReference
         url: https://developer.adobe.com/commerce/webapi/rest/reference/
       - type: Authentication
         url: https://developer.adobe.com/commerce/webapi/get-started/authentication/gs-authentication-token/
@@ -68,13 +68,13 @@ common:
     url: https://developer.adobe.com/commerce/webapi/
   - type: Developer Portal
     url: https://developer.adobe.com/commerce/
-  - type: Sign Up
+  - type: SignUp
     url: https://business.adobe.com/products/magento/get-started.html
   - type: Pricing
     url: https://business.adobe.com/products/magento/magento-commerce.html
   - type: Support
     url: https://experienceleague.adobe.com/en/docs/commerce
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/magento
 maintainers:
   - FN: Kin Lane
