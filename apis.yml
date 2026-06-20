@@ -8,7 +8,7 @@ description: >-
   customers, carts, orders, inventory, and configuration with OAuth 1.0a and
   token-based (Bearer) authentication against a merchant-hosted base URL.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
 - E-commerce
 - Commerce
