@@ -70,9 +70,9 @@ common:
   url: https://business.adobe.com/products/magento/magento-commerce.html
 - type: Documentation
   url: https://developer.adobe.com/commerce/webapi/
-- type: Developer Portal
+- type: DeveloperPortal
   url: https://developer.adobe.com/commerce/
-- type: SignUp
+- type: Signup
   url: https://business.adobe.com/products/magento/get-started.html
 - type: Pricing
   url: https://business.adobe.com/products/magento/magento-commerce.html
