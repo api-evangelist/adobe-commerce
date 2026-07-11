@@ -64,6 +64,10 @@ apis:
   - url: graphql/adobe-commerce-graphql.md
     type: GraphQL
 common:
+- type: VulnerabilityDisclosure
+  url: security/adobe-commerce-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/adobe-commerce-domain-security.yml
 - type: LinkedIn
   url: https://www.linkedin.com/company/adobe-commerce
 - type: Website
