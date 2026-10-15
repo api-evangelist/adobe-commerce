@@ -6,11 +6,20 @@ source:
 - https://composio.dev/toolkits/adobe-commerce
 - https://monid.ai/tools/adobe-commerce
 checked:
+- https://commercemarketplace.adobe.com/
 - https://composio.dev/toolkits/adobe-commerce
 - https://monid.ai/tools/adobe-commerce
 - https://n8n.io/integrations/adobe-commerce/
 - https://zapier.com/apps/adobe-commerce/integrations
 summary: null
-marketplace_apps: []
+marketplace_apps:
+- marketplace: own
+  channel: partner-built
+  app: adobe-commerce
+  url: https://commercemarketplace.adobe.com/
+  app_count: null
+  adapter: sweep-commerce-platforms.py:unreadable
+  listed: 0
+  status: not-machine-readable (HTTP 406 to non-browser clients (2026-10-15))
 edges: []
 templates: []
