@@ -1,5 +1,5 @@
 generated: '2026-10-12'
-method: none
+method: searched
 source:
 - https://zapier.com/apps/adobe-commerce/integrations
 - https://n8n.io/integrations/adobe-commerce/
@@ -8,6 +8,10 @@ source:
 checked:
 - https://commercemarketplace.adobe.com/
 - https://composio.dev/toolkits/adobe-commerce
+- https://connectors.airbyte.com/files/registries/v0/cloud_registry.json
+- https://connectors.airbyte.com/files/registries/v0/oss_registry.json
+- https://fivetran.com/docs-sitemap.xml
+- https://fivetran.com/docs/connectors/partner-built-program
 - https://monid.ai/tools/adobe-commerce
 - https://n8n.io/integrations/adobe-commerce/
 - https://zapier.com/apps/adobe-commerce/integrations
@@ -21,5 +25,61 @@ marketplace_apps:
   adapter: sweep-commerce-platforms.py:unreadable
   listed: 0
   status: not-machine-readable (HTTP 406 to non-browser clients (2026-10-15))
-edges: []
+edges:
+- partner_name: Airbyte
+  partner: airbyte
+  partner_match: aggregator
+  type: marketplace
+  marketplace: airbyte-registry
+  channel: elt-connector
+  relationship: ipaas-bridge
+  direction: third-party
+  evidence: https://docs.airbyte.com/integrations/sources/adobe-commerce-magento
+  category: null
+  contract_reference:
+    register: Airbyte connector registry (connectors.airbyte.com cloud_registry.json + oss_registry.json)
+    spec_file: null
+    role: elt-connector:airbyte-community
+    registered_name: Adobe Commerce (Magento)
+    matched_domain: adobe.com
+    matched_by: domain+name-among-holders
+    detected_by: sweep-data-integration.py
+    detected: '2026-10-18'
+    signal_note: one edge per (provider, platform); connectors, streams, packages and usage are context, never read
+    connectors:
+    - airbyte/source-adobe-commerce-magento
+    support_level:
+    - community
+    release_stage:
+    - alpha
+    in_cloud: true
+    builder: unknown (community connector; contributor not in the record)
+  detected_by: sweep-data-integration.py
+  first_seen: '2026-10-18'
+- partner_name: Fivetran
+  partner: fivetran
+  partner_match: aggregator
+  type: marketplace
+  marketplace: fivetran-connectors
+  channel: elt-connector
+  relationship: ipaas-bridge
+  direction: third-party
+  evidence: https://fivetran.com/docs/connectors/applications/adobe-commerce
+  category: null
+  contract_reference:
+    register: Fivetran connectors (fivetran.com/docs/connectors, docs-sitemap.xml + Partner-Built program)
+    spec_file: null
+    role: elt-connector:fivetran
+    registered_name: Adobe Commerce
+    matched_domain: adobe.com
+    matched_by: domain+name-among-holders
+    detected_by: sweep-data-integration.py
+    detected: '2026-10-18'
+    signal_note: one edge per (provider, platform); connectors, streams, packages and usage are context, never read
+    connector_paths:
+    - connectors/applications/adobe-commerce
+    vendor_link: https://business.adobe.com/products/magento/magento-commerce.html
+    builder: Fivetran
+  detected_by: sweep-data-integration.py
+  first_seen: '2026-10-18'
 templates: []
