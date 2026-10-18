@@ -31,7 +31,7 @@
     - alpha
     in_cloud: true
     builder: unknown (community connector; contributor not in the record)
-  status: pending-partner-spec
+  status: not-a-workflow
   arazzo: null
 - slug: adobe-commerce-fivetran
   label: Fivetran
@@ -57,5 +57,5 @@
     - connectors/applications/adobe-commerce
     vendor_link: https://business.adobe.com/products/magento/magento-commerce.html
     builder: Fivetran
-  status: pending-partner-spec
+  status: not-a-workflow
   arazzo: null
