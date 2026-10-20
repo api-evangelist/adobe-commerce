@@ -1,10 +1,11 @@
-generated: '2026-10-12'
+generated: '2026-10-20'
 method: searched
 source:
 - https://zapier.com/apps/adobe-commerce/integrations
 - https://n8n.io/integrations/adobe-commerce/
 - https://composio.dev/toolkits/adobe-commerce
 - https://monid.ai/tools/adobe-commerce
+- https://commercemarketplace.adobe.com/
 checked:
 - https://commercemarketplace.adobe.com/
 - https://composio.dev/toolkits/adobe-commerce
