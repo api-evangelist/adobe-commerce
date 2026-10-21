@@ -59,3 +59,16 @@
     builder: Fivetran
   status: not-a-workflow
   arazzo: null
+- slug: adobe-commerce-printful
+  label: Printful
+  partner: printful
+  partner_name: Printful
+  category: print-on-demand fulfilment integration
+  type: marketplace
+  marketplace: builder-directory
+  channel: partner-built
+  evidence: https://www.printful.com/integrations/adobecommerce
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
