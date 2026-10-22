@@ -72,3 +72,993 @@
   relationship: platform-app
   status: not-a-workflow
   arazzo: null
+- slug: adobe-commerce-activecampaign
+  label: ActiveCampaign
+  partner: activecampaign
+  partner_name: ActiveCampaign
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/activecampaign-module-integration.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-adyen
+  label: Adyen
+  partner: adyen
+  partner_name: Adyen
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/adyen-module-payment.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-affirm-inc
+  label: Affirm, Inc.
+  partner: affirm
+  partner_name: Affirm, Inc.
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/affirm-magento2.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-airwallex
+  label: Airwallex
+  partner: airwallex
+  partner_name: Airwallex
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/airwallex-payments-plugin-magento.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-akeneo
+  label: Akeneo
+  partner: akeneo
+  partner_name: Akeneo
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/akeneo-module-magento2-connector-community.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-algolia
+  label: Algolia
+  partner: algolia
+  partner_name: Algolia
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/algolia-algoliasearch-magento-2.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-amazon-pay
+  label: Amazon Pay
+  partner: amazon
+  partner_name: Amazon Pay
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/amzn-amazon-pay-magento-2-module.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-asaas-gest-o-financeira-sa
+  label: Asaas Gestão Financeira SA
+  partner: asaas
+  partner_name: Asaas Gestão Financeira SA
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/asaas-module-magento2.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-attentive
+  label: Attentive
+  partner: attentive
+  partner_name: Attentive
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/attentivemobile-magento2.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-automizely-pte-ltd
+  label: Automizely Pte. Ltd.
+  partner: aftership
+  partner_name: Automizely Pte. Ltd.
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/aftership-tiktok-shop.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-avalara
+  label: Avalara
+  partner_name: Avalara
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/avalara-avatax-magento.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-awin-global
+  label: Awin Global
+  partner_name: Awin Global
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/awin-module-advertisertracking.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-bazaarvoice
+  label: Bazaarvoice
+  partner: bazaarvoice
+  partner_name: Bazaarvoice
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/bazaarvoice-bazaarvoice-magento2-ext.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-bloomreach
+  label: Bloomreach
+  partner: bloomreach
+  partner_name: Bloomreach
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/bloomreach-bloomreach-engagement-connector-magento.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-blueshift-labs-inc
+  label: Blueshift Labs, Inc.
+  partner: blueshift
+  partner_name: Blueshift Labs, Inc.
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/blueshift-blueshiftconnect.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-cj-affiliate
+  label: CJ Affiliate
+  partner: cj-affiliate
+  partner_name: CJ Affiliate
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/cjpublicis-universal-tag-module.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-celigo-inc
+  label: Celigo, Inc
+  partner_name: Celigo, Inc
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/celigo-magento2-netsuite-connector.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-channelengine
+  label: ChannelEngine
+  partner: channelengine
+  partner_name: ChannelEngine
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/channelengine-magento2.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-chargeafter
+  label: ChargeAfter
+  partner: chargeafter
+  partner_name: ChargeAfter
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/chargeafter1-magento-extention.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-checkout-technology-ltd
+  label: Checkout Technology Ltd
+  partner: checkout-com
+  partner_name: Checkout Technology Ltd
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/checkoutcom-magento2.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-cloudinary
+  label: Cloudinary
+  partner_name: Cloudinary
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/cloudinary-cloudinary.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-coinremitter
+  label: Coinremitter
+  partner_name: Coinremitter
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/coinremitter-magento2.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-conekta
+  label: Conekta
+  partner: conekta
+  partner_name: Conekta
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/conekta-conekta-payments.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-cybersource
+  label: Cybersource
+  partner: cybersource
+  partner_name: Cybersource
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/cybersource-global-payment-management.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-dhl
+  label: DHL
+  partner: dhl
+  partner_name: DHL
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/dhl-shipping-m2.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-dotdigital-ltd
+  label: Dotdigital LTD
+  partner: dotdigital
+  partner_name: Dotdigital LTD
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/dotdigital-dotdigital-magento2-os-package.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-emplifi
+  label: Emplifi
+  partner_name: Emplifi
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/pixlee-magento2.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-eway
+  label: Eway
+  partner: eway
+  partner_name: Eway
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/eway-eway-rapid-magento2.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-fastly-inc
+  label: Fastly Inc
+  partner_name: Fastly Inc
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/fastly-magento2.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-fintecture
+  label: Fintecture
+  partner: fintecture
+  partner_name: Fintecture
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/fintecture-payment.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-forter
+  label: Forter
+  partner: forter
+  partner_name: Forter
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/forter-magento2-module-forter.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-getresponse-s-a
+  label: GETRESPONSE S A
+  partner: getresponse
+  partner_name: GETRESPONSE S A
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/getresponse-magento2-module.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-gorgias-inc
+  label: Gorgias Inc.
+  partner: gorgias
+  partner_name: Gorgias Inc.
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/gorgias-module-magento-connect.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-hello-retail-aps
+  label: Hello Retail ApS
+  partner: hello-retail
+  partner_name: Hello Retail ApS
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/addwish-awext.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-impact
+  label: Impact
+  partner: impact
+  partner_name: Impact
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/impact-tech-module-magento-integration.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-jifiti
+  label: Jifiti
+  partner: jifiti
+  partner_name: Jifiti
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/jifiti-module-payment.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-komoju
+  label: KOMOJU
+  partner: komoju
+  partner_name: KOMOJU
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/komoju-payments.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-klarna-bank-ab-publ
+  label: Klarna Bank AB (publ)
+  partner: klarna
+  partner_name: Klarna Bank AB (publ)
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/klarna-m2-klarna.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-klaviyo
+  label: Klaviyo
+  partner: klaviyo
+  partner_name: Klaviyo
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/klaviyo-magento2-extension.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-kount
+  label: Kount
+  partner: kount
+  partner_name: Kount
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/kount-magento2-kount.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-layup-technologies-pty-ltd
+  label: LayUp Technologies Pty Ltd
+  partner: layup-technologies
+  partner_name: LayUp Technologies Pty Ltd
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/layup-technologies-module-layup.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-lengow
+  label: Lengow
+  partner: lengow
+  partner_name: Lengow
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/lengow-module-connector.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-loop-now-technologies-inc
+  label: Loop Now Technologies Inc.
+  partner: firework
+  partner_name: Loop Now Technologies Inc.
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/firework-firework.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-mailchimp
+  label: Mailchimp
+  partner: mailchimp
+  partner_name: Mailchimp
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/mailchimp-mc-magento2.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-mapp-digital
+  label: Mapp Digital
+  partner: mapp
+  partner_name: Mapp Digital
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/mapp-digital-cloud.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-mollie
+  label: Mollie
+  partner: mollie
+  partner_name: Mollie
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/mollie-magento2.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-partnerize
+  label: Partnerize
+  partner_name: Partnerize
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/partnerize-conversion-tracking.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-paypal
+  label: PayPal
+  partner: paypal
+  partner_name: PayPal
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/paypal-module-subscription.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-paystack-payments-ltd
+  label: Paystack Payments Ltd
+  partner: paystack
+  partner_name: Paystack Payments Ltd
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/pstk-paystack-magento2-module.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-poptin
+  label: Poptin
+  partner: poptin
+  partner_name: Poptin
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/poptin-module-magento2.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-przelewy24
+  label: Przelewy24
+  partner: przelewy24
+  partner_name: Przelewy24
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/przelewy24-magento2-przelewy24.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-refersion-inc
+  label: Refersion Inc.
+  partner: refersion
+  partner_name: Refersion Inc.
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/refersion-affiliate-tracking.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-resolve
+  label: Resolve
+  partner: resolve
+  partner_name: Resolve
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/resolve-magento2.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-route-app-llc
+  label: Route App LLC
+  partner: route
+  partner_name: Route App LLC
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/route-route-m2.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-satispay
+  label: Satispay
+  partner: satispay
+  partner_name: Satispay
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/satispay-magento2-plugin.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-sendcloud
+  label: Sendcloud
+  partner: sendcloud
+  partner_name: Sendcloud
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/sendcloud-sendcloud.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-sezzle-inc
+  label: Sezzle Inc
+  partner: sezzle
+  partner_name: Sezzle Inc
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/sezzle-sezzlepay.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-shipstation
+  label: ShipStation
+  partner: shipstation
+  partner_name: ShipStation
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/auctane-api.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-sift
+  label: Sift
+  partner: sift
+  partner_name: Sift
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/sift-module-payment-protection.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-signifyd
+  label: Signifyd
+  partner: signifyd
+  partner_name: Signifyd
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/signifyd-module-connect.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-sirv-limited
+  label: Sirv Limited
+  partner_name: Sirv Limited
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/sirv-magento2.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-splitit-usa-ltd
+  label: Splitit USA LTD
+  partner: splitit
+  partner_name: Splitit USA LTD
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/splitit-module-payment-gateway.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-square
+  label: Square
+  partner: square
+  partner_name: Square
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/square-module-squareup-omni.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-stripe
+  label: Stripe
+  partner: stripe
+  partner_name: Stripe
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/stripe-stripe-payments.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-super-payments-limited
+  label: Super Payments Limited
+  partner: super-payments
+  partner_name: Super Payments Limited
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/superpayments-superpayment.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-synchrony
+  label: Synchrony
+  partner: synchrony-financial
+  partner_name: Synchrony
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/synchrony-digital-buy-magento2-module.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-talkable
+  label: Talkable
+  partner: talkable
+  partner_name: Talkable
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/talkable-magento2-integration.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-taxjar
+  label: TaxJar
+  partner: taxjar
+  partner_name: TaxJar
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/taxjar-module-taxjar.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-text
+  label: Text
+  partner_name: Text
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/livechat-module-magento-livechat.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-trust-payments-limited
+  label: Trust Payments Limited
+  partner: trust-payments
+  partner_name: Trust Payments Limited
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/trust-payments-limited-module-trust.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-trustpilot-inc
+  label: Trustpilot, Inc.
+  partner: trustpilot
+  partner_name: Trustpilot, Inc.
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/trustpilot-module-reviews.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-visual-crossing-corporation
+  label: Visual Crossing Corporation
+  partner_name: Visual Crossing Corporation
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/visualcrossing-weather-forecast.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-xendit
+  label: Xendit
+  partner: xendit
+  partner_name: Xendit
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/xendit-m2invoice.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-yotpo
+  label: Yotpo
+  partner: yotpo
+  partner_name: Yotpo
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/yotpo-module-yotpo.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-zip-co-limited
+  label: Zip Co Limited
+  partner: zip-co
+  partner_name: Zip Co Limited
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/zip-magento2.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-zonos
+  label: Zonos
+  partner: zonos
+  partner_name: Zonos
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/zonos-hello.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-www-emarsys-com
+  label: www.emarsys.com
+  partner: emarsys
+  partner_name: www.emarsys.com
+  category: Adobe Commerce Marketplace extension
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://commercemarketplace.adobe.com/emartech-emarsys-magento2-extension.html
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null

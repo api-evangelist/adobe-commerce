@@ -23,6 +23,10 @@ checked:
 - https://printify.com/integrations/
 - https://www.bigcommerce.com/apps/
 - https://www.printful.com/integrations
+- https://commercemarketplace.adobe.com/partner/
+- https://commercemarketplace.adobe.com/sitemap.xml
+- https://store.shopware.com/en/extension-partners/
+- https://store.shopware.com/en/sitemap.xml
 summary: null
 marketplace_apps:
 - marketplace: own
@@ -106,4 +110,2188 @@ edges:
     it publishes onto
   detected_by: sweep-mach-headless-commerce.py
   detected: '2026-10-20'
+- partner_name: ActiveCampaign
+  app: ActiveCampaign
+  apps:
+  - ActiveCampaign
+  listing_count: 1
+  partner: activecampaign
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/activecampaign-module-integration.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.activecampaign.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/activecampaign
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  publisher_country: United States
+- partner_name: Adyen
+  app: Adyen Payment Plugin
+  apps:
+  - Adyen Payment Plugin
+  listing_count: 1
+  partner: adyen
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/adyen-module-payment.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.adyen.com
+  seller_page: https://commercemarketplace.adobe.com/partner/adyen
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Netherlands
+- partner_name: Affirm, Inc.
+  app: Affirm
+  apps:
+  - Affirm
+  listing_count: 1
+  partner: affirm
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/affirm-magento2.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: http://www.affirm.com
+  seller_page: https://commercemarketplace.adobe.com/partner/Affirm
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Airwallex
+  app: Airwallex Payments
+  apps:
+  - Airwallex Payments
+  listing_count: 1
+  partner: airwallex
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/airwallex-payments-plugin-magento.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://airwallex.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/airwallex
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Australia
+- partner_name: Akeneo
+  app: Akeneo Connector
+  apps:
+  - Akeneo Connector
+  listing_count: 1
+  partner: akeneo
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/akeneo-module-magento2-connector-community.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.akeneo.com
+  seller_page: https://commercemarketplace.adobe.com/partner/Akeneo
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: France
+- partner_name: Algolia
+  app: Algolia Instant Search
+  apps:
+  - Algolia Instant Search
+  listing_count: 1
+  partner: algolia
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/algolia-algoliasearch-magento-2.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: http://www.algolia.com
+  seller_page: https://commercemarketplace.adobe.com/partner/algolia
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: France
+- partner_name: Amazon Pay
+  app: Amazon Pay
+  apps:
+  - Amazon Pay
+  - Amazon Payment Services
+  listing_count: 2
+  partner: amazon
+  partner_match: domain+name-among-holders
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/amzn-amazon-pay-magento-2-module.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://pay.amazon.com
+  seller_page: https://commercemarketplace.adobe.com/partner/AmazonPay
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+  other_publisher_names:
+  - Amazon Payment Services
+- partner_name: Asaas Gestão Financeira SA
+  app: Asaas Payment
+  apps:
+  - Asaas Payment
+  listing_count: 1
+  partner: asaas
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/asaas-module-magento2.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.asaas.com
+  seller_page: https://commercemarketplace.adobe.com/partner/asaas
+  editions:
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Brazil
+- partner_name: Attentive
+  app: Attentive SMS Marketing
+  apps:
+  - Attentive SMS Marketing
+  listing_count: 1
+  partner: attentive
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/attentivemobile-magento2.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.attentive.com/demo?utm_source=magento&amp;utm_medium=demo-request&amp;utm_campaign=app-listings
+  seller_page: https://commercemarketplace.adobe.com/partner/bvalekatteb7f7
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Automizely Pte. Ltd.
+  app: Feed for TikTok Shop
+  apps:
+  - Feed for TikTok Shop
+  listing_count: 1
+  partner: aftership
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/aftership-tiktok-shop.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.aftership.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/aftership
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Singapore
+- partner_name: Avalara
+  app: AvaTax
+  apps:
+  - AvaTax
+  listing_count: 1
+  partner: null
+  partner_match: null
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/avalara-avatax-magento.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: http://www.avalara.com
+  seller_page: https://commercemarketplace.adobe.com/partner/AvalaraInc
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+  partner_held:
+    candidate: avalara
+    why: 'market-fit gate: partner''s own tags carry no e-commerce / commerce / payments / shipping / product-data
+      term'
+- partner_name: Awin Global
+  app: Awin Affiliate Marketing
+  apps:
+  - Awin Affiliate Marketing
+  listing_count: 1
+  partner: null
+  partner_match: null
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/awin-module-advertisertracking.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.awin.com/gb
+  seller_page: https://commercemarketplace.adobe.com/partner/Awin+Group
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United Kingdom
+  partner_held:
+    candidate: awin-affiliate
+    why: 'market-fit gate: partner''s own tags carry no e-commerce / commerce / payments / shipping / product-data
+      term'
+- partner_name: Bazaarvoice
+  app: Bazaarvoice
+  apps:
+  - Bazaarvoice
+  listing_count: 1
+  partner: bazaarvoice
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/bazaarvoice-bazaarvoice-magento2-ext.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.bazaarvoice.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/bvuser
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Bloomreach
+  app: Bloomreach Engagement
+  apps:
+  - Bloomreach Engagement
+  listing_count: 1
+  partner: bloomreach
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/bloomreach-bloomreach-engagement-connector-magento.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.bloomreach.com
+  seller_page: https://commercemarketplace.adobe.com/partner/jordanrope993e
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Blueshift Labs, Inc.
+  app: Blueshift Customer Data Activation Platform
+  apps:
+  - Blueshift Customer Data Activation Platform
+  listing_count: 1
+  partner: blueshift
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/blueshift-blueshiftconnect.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: http://www.Blueshift.com
+  seller_page: https://commercemarketplace.adobe.com/partner/Blueshift+Labs
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: CJ Affiliate
+  app: CJ Affiliate Network Integration
+  apps:
+  - CJ Affiliate Network Integration
+  listing_count: 1
+  partner: cj-affiliate
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/cjpublicis-universal-tag-module.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.cj.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/MagentoSup11ae
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Celigo, Inc
+  app: Celigo NetSuite Connector
+  apps:
+  - Celigo NetSuite Connector
+  listing_count: 1
+  partner: null
+  partner_match: null
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/celigo-magento2-netsuite-connector.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.celigo.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/Celigo
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+  partner_held:
+    candidate: celigo
+    why: 'market-fit gate: partner''s own tags carry no e-commerce / commerce / payments / shipping / product-data
+      term'
+- partner_name: ChannelEngine
+  app: ChannelEngine Marketplace Connector (v3)
+  apps:
+  - ChannelEngine Marketplace Connector (v3)
+  listing_count: 1
+  partner: channelengine
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/channelengine-magento2.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.channelengine.com
+  seller_page: https://commercemarketplace.adobe.com/partner/ChannelEngine
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Netherlands
+- partner_name: ChargeAfter
+  app: ChargeAfter Multi Lender Financing Platform
+  apps:
+  - ChargeAfter Multi Lender Financing Platform
+  listing_count: 1
+  partner: chargeafter
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/chargeafter1-magento-extention.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://chargeafter.com
+  seller_page: https://commercemarketplace.adobe.com/partner/ChargeAfter
+  editions:
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Checkout Technology Ltd
+  app: Checkout.com Unified Payments API
+  apps:
+  - Checkout.com Unified Payments API
+  listing_count: 1
+  partner: checkout-com
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/checkoutcom-magento2.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.checkout.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/checkoutinteg
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United Kingdom
+- partner_name: Cloudinary
+  app: Cloudinary Image & Video Management
+  apps:
+  - Cloudinary Image & Video Management
+  listing_count: 1
+  partner: null
+  partner_match: null
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/cloudinary-cloudinary.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://cloudinary.com
+  seller_page: https://commercemarketplace.adobe.com/partner/Cloudinary
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Israel
+  partner_held:
+    candidate: cloudinary
+    why: 'market-fit gate: partner''s own tags carry no e-commerce / commerce / payments / shipping / product-data
+      term'
+- partner_name: Coinremitter
+  app: 'Coinremitter: Cryptocurrency Payment Gateway'
+  apps:
+  - 'Coinremitter: Cryptocurrency Payment Gateway'
+  listing_count: 1
+  partner: null
+  partner_match: null
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/coinremitter-magento2.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://coinremitter.com
+  seller_page: https://commercemarketplace.adobe.com/partner/coinremitter_cr
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: India
+  partner_held:
+    candidate: coinremitter
+    why: 'market-fit gate: partner''s own tags carry no e-commerce / commerce / payments / shipping / product-data
+      term'
+- partner_name: Conekta
+  app: Conekta
+  apps:
+  - Conekta
+  listing_count: 1
+  partner: conekta
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/conekta-conekta-payments.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.conekta.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/conektadev
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Mexico
+- partner_name: Cybersource
+  app: Cybersource Payment Management Platform
+  apps:
+  - Cybersource Payment Management Platform
+  listing_count: 1
+  partner: cybersource
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/cybersource-global-payment-management.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://cybersource.com
+  seller_page: https://commercemarketplace.adobe.com/partner/CYBS
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: DHL
+  app: Deutsche Post & DHL Shipping
+  apps:
+  - Deutsche Post & DHL Shipping
+  listing_count: 1
+  partner: dhl
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/dhl-shipping-m2.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.dhl.com
+  seller_page: https://commercemarketplace.adobe.com/partner/DP+DHL
+  editions:
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Germany
+- partner_name: Dotdigital LTD
+  app: Dotdigital Marketing
+  apps:
+  - Dotdigital Marketing
+  listing_count: 1
+  partner: dotdigital
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/dotdigital-dotdigital-magento2-os-package.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://dotdigital.com/partner/adobe-commerce/
+  seller_page: https://commercemarketplace.adobe.com/partner/Dotdigital
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United Kingdom
+- partner_name: Emplifi
+  app: Social UGC
+  apps:
+  - Emplifi Ratings & Reviews TurnTo
+  - Social UGC
+  listing_count: 2
+  partner: null
+  partner_match: null
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/pixlee-magento2.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://emplifi.io/solutions/social-commerce/?utm_source=magento&amp;utm_medium=referral
+  seller_page: https://commercemarketplace.adobe.com/partner/satnam14
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+  other_publisher_names:
+  - Emplifi
+  partner_held:
+    candidate: emplifi-io
+    why: 'market-fit gate: partner''s own tags carry no e-commerce / commerce / payments / shipping / product-data
+      term'
+- partner_name: Eway
+  app: Eway Payments
+  apps:
+  - Eway Payments
+  listing_count: 1
+  partner: eway
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/eway-eway-rapid-magento2.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.eway.com.au
+  seller_page: https://commercemarketplace.adobe.com/partner/Eway
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Australia
+- partner_name: Fastly Inc
+  app: Fastly CDN
+  apps:
+  - Fastly CDN
+  listing_count: 1
+  partner: null
+  partner_match: null
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/fastly-magento2.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.fastly.com
+  seller_page: https://commercemarketplace.adobe.com/partner/fastly_magento
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+  partner_held:
+    candidate: fastly
+    why: 'market-fit gate: partner''s own tags carry no e-commerce / commerce / payments / shipping / product-data
+      term'
+- partner_name: Fintecture
+  app: Fintecture Pay With Immediate Transfer
+  apps:
+  - Fintecture Pay With Immediate Transfer
+  listing_count: 1
+  partner: fintecture
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/fintecture-payment.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: http://www.fintecture.com
+  seller_page: https://commercemarketplace.adobe.com/partner/redafintec7eba
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: France
+- partner_name: Forter
+  app: Forter Fraud Prevention Platform
+  apps:
+  - Forter Fraud Prevention Platform
+  listing_count: 1
+  partner: forter
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/forter-magento2-module-forter.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: http://www.forter.com
+  seller_page: https://commercemarketplace.adobe.com/partner/forter+magento_
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: GETRESPONSE S A
+  app: GetResponse
+  apps:
+  - GetResponse
+  listing_count: 1
+  partner: getresponse
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/getresponse-magento2-module.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.getresponse.com
+  seller_page: https://commercemarketplace.adobe.com/partner/GetResponse
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Poland
+- partner_name: Gorgias Inc.
+  app: Gorgias
+  apps:
+  - Gorgias
+  listing_count: 1
+  partner: gorgias
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/gorgias-module-magento-connect.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: http://www.gorgias.com
+  seller_page: https://commercemarketplace.adobe.com/partner/gorgias_dev
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Hello Retail ApS
+  app: Hello Retail
+  apps:
+  - Hello Retail
+  listing_count: 1
+  partner: hello-retail
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/addwish-awext.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://helloretail.com
+  seller_page: https://commercemarketplace.adobe.com/partner/Hello+Retail
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Denmark
+- partner_name: Impact
+  app: Affiliate and Influencer by impact.com
+  apps:
+  - Affiliate and Influencer by impact.com
+  listing_count: 1
+  partner: impact
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/impact-tech-module-magento-integration.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: http://impact.com
+  seller_page: https://commercemarketplace.adobe.com/partner/techpartne3a7b
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Jifiti
+  app: Jifiti Buy Now Pay Later Extension
+  apps:
+  - Jifiti Buy Now Pay Later Extension
+  listing_count: 1
+  partner: jifiti
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/jifiti-module-payment.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.jifiti.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/meirjifiti958a
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  publisher_country: United States
+- partner_name: KOMOJU
+  app: KOMOJU Japanese Payments
+  apps:
+  - KOMOJU Japanese Payments
+  listing_count: 1
+  partner: komoju
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/komoju-payments.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: http://www.komoju.com
+  seller_page: https://commercemarketplace.adobe.com/partner/magentodev5e18
+  editions:
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Japan
+- partner_name: Klarna Bank AB (publ)
+  app: Klarna
+  apps:
+  - Klarna
+  listing_count: 1
+  partner: klarna
+  partner_match: domain+name-among-holders
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/klarna-m2-klarna.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.klarna.com
+  seller_page: https://commercemarketplace.adobe.com/partner/KlarnaOfficial
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Sweden
+- partner_name: Klaviyo
+  app: Klaviyo
+  apps:
+  - Klaviyo
+  listing_count: 1
+  partner: klaviyo
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/klaviyo-magento2-extension.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.klaviyo.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/klaviyo
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Kount
+  app: Kount Fraud Prevention
+  apps:
+  - Kount Fraud Prevention
+  listing_count: 1
+  partner: kount
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/kount-magento2-kount.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: http://www.kount.com
+  seller_page: https://commercemarketplace.adobe.com/partner/Kount
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: LayUp Technologies Pty Ltd
+  app: LayUp Digital Layby Solution
+  apps:
+  - LayUp Digital Layby Solution
+  listing_count: 1
+  partner: layup-technologies
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/layup-technologies-module-layup.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://layup.co.za/
+  seller_page: https://commercemarketplace.adobe.com/partner/devlayupcobf2c
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: South Africa
+- partner_name: Lengow
+  app: Lengow Feed Management
+  apps:
+  - Lengow Feed Management
+  listing_count: 1
+  partner: lengow
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/lengow-module-connector.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.lengow.com
+  seller_page: https://commercemarketplace.adobe.com/partner/Lengow
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: France
+- partner_name: Loop Now Technologies Inc.
+  app: Firework Shoppable Video
+  apps:
+  - Firework Shoppable Video
+  listing_count: 1
+  partner: firework
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/firework-firework.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://firework.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/ruturajfir40d2
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  publisher_country: United States
+- partner_name: Mailchimp
+  app: Mailchimp
+  apps:
+  - Mailchimp
+  listing_count: 1
+  partner: mailchimp
+  partner_match: domain+name-among-holders
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/mailchimp-mc-magento2.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://mailchimp.com
+  seller_page: https://commercemarketplace.adobe.com/partner/MailChimpDevs
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Mapp Digital
+  app: Mapp Cloud
+  apps:
+  - Mapp Cloud
+  listing_count: 1
+  partner: mapp
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/mapp-digital-cloud.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://mapp.com
+  seller_page: https://commercemarketplace.adobe.com/partner/mapp_digital
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Germany
+- partner_name: Mollie
+  app: Mollie
+  apps:
+  - Mollie
+  listing_count: 1
+  partner: mollie
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/mollie-magento2.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.mollie.com
+  seller_page: https://commercemarketplace.adobe.com/partner/Mollie
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Netherlands
+- partner_name: Partnerize
+  app: Partnerize Partner Program Activation
+  apps:
+  - Partnerize Partner Program Activation
+  listing_count: 1
+  partner: null
+  partner_match: null
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/partnerize-conversion-tracking.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.partnerize.com
+  seller_page: https://commercemarketplace.adobe.com/partner/crisgriffi2fcc
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  publisher_country: United Kingdom
+  partner_held:
+    candidate: partnerize
+    why: 'market-fit gate: partner''s own tags carry no e-commerce / commerce / payments / shipping / product-data
+      term'
+- partner_name: PayPal
+  app: Braintree Subscriptions
+  apps:
+  - Braintree Subscriptions
+  listing_count: 1
+  partner: paypal
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/paypal-module-subscription.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: http://www.paypal.com
+  seller_page: https://commercemarketplace.adobe.com/partner/PayPal_1
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Paystack Payments Ltd
+  app: Paystack Payments
+  apps:
+  - Paystack Payments
+  listing_count: 1
+  partner: paystack
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/pstk-paystack-magento2-module.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://paystack.com
+  seller_page: https://commercemarketplace.adobe.com/partner/paystackhq
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Nigeria
+- partner_name: Poptin
+  app: 'Poptin: Email Marketing Automation, Newsletter & Exit Pop Ups'
+  apps:
+  - 'Poptin: Email Marketing Automation, Newsletter & Exit Pop Ups'
+  listing_count: 1
+  partner: poptin
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/poptin-module-magento2.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.poptin.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/poptin
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Israel
+- partner_name: Przelewy24
+  app: Przelewy24
+  apps:
+  - Przelewy24
+  listing_count: 1
+  partner: przelewy24
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/przelewy24-magento2-przelewy24.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://przelewy24.pl/en/
+  seller_page: https://commercemarketplace.adobe.com/partner/Przelewy24
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Poland
+- partner_name: Refersion Inc.
+  app: Refersion
+  apps:
+  - Refersion
+  listing_count: 1
+  partner: refersion
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/refersion-affiliate-tracking.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.refersion.com
+  seller_page: https://commercemarketplace.adobe.com/partner/refersion
+  editions:
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Resolve
+  app: Resolve Net Terms
+  apps:
+  - Resolve Net Terms
+  listing_count: 1
+  partner: resolve
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/resolve-magento2.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.resolvepay.com
+  seller_page: https://commercemarketplace.adobe.com/partner/resolvepay
+  editions:
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Route App LLC
+  app: Route Shipping Protection
+  apps:
+  - Route Shipping Protection
+  listing_count: 1
+  partner: route
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/route-route-m2.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://route.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/tech_route
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Satispay
+  app: Satispay
+  apps:
+  - Satispay
+  listing_count: 1
+  partner: satispay
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/satispay-magento2-plugin.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.satispay.com
+  seller_page: https://commercemarketplace.adobe.com/partner/Satispay
+  editions:
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Italy
+- partner_name: Sendcloud
+  app: Sendcloud
+  apps:
+  - Sendcloud
+  listing_count: 1
+  partner: sendcloud
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/sendcloud-sendcloud.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.sendcloud.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/Sendcloud
+  editions:
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Netherlands
+- partner_name: Sezzle Inc
+  app: Sezzle
+  apps:
+  - Sezzle
+  listing_count: 1
+  partner: sezzle
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/sezzle-sezzlepay.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://sezzle.com
+  seller_page: https://commercemarketplace.adobe.com/partner/sezzleinc
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: ShipStation
+  app: ShipStation
+  apps:
+  - ShipStation
+  listing_count: 1
+  partner: shipstation
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/auctane-api.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.shipstation.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/shipstation
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Sift
+  app: Sift Payment Protection
+  apps:
+  - Sift Payment Protection
+  listing_count: 1
+  partner: sift
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/sift-module-payment-protection.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://sift.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/Sift
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Signifyd
+  app: Signifyd  Fraud & Chargeback Protection
+  apps:
+  - Signifyd  Fraud & Chargeback Protection
+  listing_count: 1
+  partner: signifyd
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/signifyd-module-connect.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: http://www.signifyd.com
+  seller_page: https://commercemarketplace.adobe.com/partner/Signifyd+Dev
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Sirv Limited
+  app: Sirv CDN & Image Optimizer
+  apps:
+  - Sirv CDN & Image Optimizer
+  listing_count: 1
+  partner: null
+  partner_match: null
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/sirv-magento2.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://sirv.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/sirv
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United Kingdom
+  partner_held:
+    candidate: sirv
+    why: 'market-fit gate: partner''s own tags carry no e-commerce / commerce / payments / shipping / product-data
+      term'
+- partner_name: Splitit USA LTD
+  app: Splitit Installments
+  apps:
+  - Splitit Installments
+  listing_count: 1
+  partner: splitit
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/splitit-module-payment-gateway.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://splitit.com
+  seller_page: https://commercemarketplace.adobe.com/partner/Splitit
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Square
+  app: Square Payments
+  apps:
+  - Square Payments
+  listing_count: 1
+  partner: square
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/square-module-squareup-omni.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://squareup.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/Square+Payments
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Stripe
+  app: Stripe Payments
+  apps:
+  - Stripe Payments
+  listing_count: 1
+  partner: stripe
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/stripe-stripe-payments.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.stripe.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/stripe_official
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Super Payments Limited
+  app: Super Payments
+  apps:
+  - Super Payments
+  listing_count: 1
+  partner: super-payments
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/superpayments-superpayment.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.superpayments.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/sysadminad8cb9
+  editions:
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  publisher_country: United Kingdom
+- partner_name: Synchrony
+  app: Synchrony
+  apps:
+  - Synchrony
+  listing_count: 1
+  partner: synchrony-financial
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/synchrony-digital-buy-magento2-module.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: http://www.synchrony.com
+  seller_page: https://commercemarketplace.adobe.com/partner/Synchrony
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Talkable
+  app: Talkable
+  apps:
+  - Talkable
+  listing_count: 1
+  partner: talkable
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/talkable-magento2-integration.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.talkable.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/talkable
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: TaxJar
+  app: TaxJar Sales Tax Automation
+  apps:
+  - TaxJar Sales Tax Automation
+  listing_count: 1
+  partner: taxjar
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/taxjar-module-taxjar.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.taxjar.com
+  seller_page: https://commercemarketplace.adobe.com/partner/TaxJar
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Text
+  app: Live Chat
+  apps:
+  - Live Chat
+  listing_count: 1
+  partner: null
+  partner_match: null
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/livechat-module-magento-livechat.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.livechat.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/LiveChat+Inc
+  editions:
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+  partner_held:
+    candidate: livechat
+    why: 'market-fit gate: partner''s own tags carry no e-commerce / commerce / payments / shipping / product-data
+      term'
+- partner_name: Trust Payments Limited
+  app: Trust Payments
+  apps:
+  - Trust Payments
+  listing_count: 1
+  partner: trust-payments
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/trust-payments-limited-module-trust.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.trustpayments.com
+  seller_page: https://commercemarketplace.adobe.com/partner/secure_trading
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United Kingdom
+- partner_name: Trustpilot, Inc.
+  app: Trustpilot Reviews
+  apps:
+  - Trustpilot Reviews
+  listing_count: 1
+  partner: trustpilot
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/trustpilot-module-reviews.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://business.trustpilot.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/Trustpilot
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Visual Crossing Corporation
+  app: Visual Crossing Weather Forecast
+  apps:
+  - Visual Crossing Weather Forecast
+  listing_count: 1
+  partner: null
+  partner_match: null
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/visualcrossing-weather-forecast.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://www.visualcrossing.com/
+  seller_page: https://commercemarketplace.adobe.com/partner/infovisual9d58
+  editions:
+  - Adobe Commerce (cloud)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  publisher_country: United States
+  partner_held:
+    candidate: visual-crossing
+    why: 'market-fit gate: partner''s own tags carry no e-commerce / commerce / payments / shipping / product-data
+      term'
+- partner_name: Xendit
+  app: Xendit Payments
+  apps:
+  - Xendit Payments
+  listing_count: 1
+  partner: xendit
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/xendit-m2invoice.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://xendit.co
+  seller_page: https://commercemarketplace.adobe.com/partner/store_channel_xdt
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Indonesia
+- partner_name: Yotpo
+  app: Yotpo Reviews- Collect, Display & Optimize Customer Feedback
+  apps:
+  - Yotpo Reviews- Collect, Display & Optimize Customer Feedback
+  listing_count: 1
+  partner: yotpo
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/yotpo-module-yotpo.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: http://yotpo.com
+  seller_page: https://commercemarketplace.adobe.com/partner/YotpoAccount
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: Zip Co Limited
+  app: Zip
+  apps:
+  - Zip
+  - Zip North America
+  listing_count: 2
+  partner: zip-co
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/zip-magento2.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://zip.co
+  seller_page: https://commercemarketplace.adobe.com/partner/zip
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Australia
+  other_publisher_names:
+  - Zip Co US, Inc.
+- partner_name: Zonos
+  app: Zonos Hello
+  apps:
+  - Zonos Hello
+  listing_count: 1
+  partner: zonos
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/zonos-hello.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: https://zonos.com
+  seller_page: https://commercemarketplace.adobe.com/partner/Zonos
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: United States
+- partner_name: www.emarsys.com
+  app: SAP Emarsys Customer Engagement Platform
+  apps:
+  - SAP Emarsys Customer Engagement Platform
+  listing_count: 1
+  partner: emarsys
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://commercemarketplace.adobe.com/emartech-emarsys-magento2-extension.html
+  category: Adobe Commerce Marketplace extension
+  partner_url: http://www.emarsys.com
+  seller_page: https://commercemarketplace.adobe.com/partner/emarsys
+  editions:
+  - Adobe Commerce (cloud)
+  - Adobe Commerce (on-prem)
+  - Magento Open Source
+  quality_report: 'Adobe marketplace technical review (installation, code sniffer, malware scan, marketing review)
+    is required for every listing: context, never certified_products'
+  signal_note: Adobe Commerce Marketplace listing (seller website from the seller's own public partner page); listing
+    count and app names are context, never counted
+  detected_by: sweep-ecommerce-extension-marketplaces.py
+  detected: '2026-10-22'
+  third_party_service: true
+  publisher_country: Austria
 templates: []
