@@ -1062,3 +1062,165 @@
   relationship: platform-app
   status: not-a-workflow
   arazzo: null
+- slug: adobe-commerce-accenture-plc
+  label: Accenture PLC
+  partner_name: Accenture PLC
+  category: Adobe Exchange Experience Cloud listing (Audience Manager, Campaign, Commerce, Experience Platform)
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/1200059
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-cdata-software
+  label: CData Software
+  partner_name: CData Software
+  category: Adobe Exchange Experience Cloud listing (Commerce)
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/108072
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-deloitte-consulting
+  label: Deloitte Consulting
+  partner_name: Deloitte Consulting
+  category: Adobe Exchange Experience Cloud listing (Advertising Cloud, Analytics, Campaign, Commerce)
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/1200054
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-fiserv
+  label: Fiserv
+  partner: fiserv
+  partner_name: Fiserv
+  category: Adobe Exchange Experience Cloud listing (Commerce)
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/108868
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-gb-group-plc
+  label: GB Group plc
+  partner_name: GB Group plc
+  category: Adobe Exchange Experience Cloud listing (Commerce, Experience Platform)
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/109037
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-infobip-ltd
+  label: INFOBIP LTD
+  partner: infobip
+  partner_name: INFOBIP LTD
+  category: Adobe Exchange Experience Cloud listing (Commerce)
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/600218
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-infosys-limited
+  label: Infosys Limited
+  partner_name: Infosys Limited
+  category: Adobe Exchange Experience Cloud listing (Analytics, Commerce, Experience Platform apps, Experience Platform
+    services)
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/1200100
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-nuvei
+  label: Nuvei
+  partner: nuvei
+  partner_name: Nuvei
+  category: Adobe Exchange Experience Cloud listing (Commerce)
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/108008
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-pricewaterhousecoopers-llp
+  label: PricewaterhouseCoopers LLP
+  partner_name: PricewaterhouseCoopers LLP
+  category: Adobe Exchange Experience Cloud listing (Commerce)
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/1200102
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-sap-se
+  label: SAP SE
+  partner_name: SAP SE
+  category: Adobe Exchange Experience Cloud listing (Commerce)
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/106221
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-thomson-reuters-tax-accounting-inc
+  label: Thomson Reuters Tax & Accounting, Inc.
+  partner_name: Thomson Reuters Tax & Accounting, Inc.
+  category: Adobe Exchange Experience Cloud listing (Commerce)
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/600078
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-transperfect
+  label: TransPerfect
+  partner: transperfect
+  partner_name: TransPerfect
+  category: Adobe Exchange Experience Cloud listing (Commerce)
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/103755
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: adobe-commerce-workato-inc
+  label: WORKATO, INC.
+  partner: workato
+  partner_name: WORKATO, INC.
+  category: Adobe Exchange Experience Cloud listing (Commerce)
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/103198
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null

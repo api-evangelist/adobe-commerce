@@ -27,6 +27,10 @@ checked:
 - https://commercemarketplace.adobe.com/sitemap.xml
 - https://store.shopware.com/en/extension-partners/
 - https://store.shopware.com/en/sitemap.xml
+- https://exchange.adobe.com/apps
+- https://exchange.adobe.com/apps/browse/cc
+- https://exchange.adobe.com/apps/browse/ec
+- https://exchange.adobe.com/robots.txt
 summary: null
 marketplace_apps:
 - marketplace: own
@@ -2294,4 +2298,342 @@ edges:
   detected: '2026-10-22'
   third_party_service: true
   publisher_country: Austria
+- partner_name: Accenture PLC
+  app: Accenture | Adobe ABM Accelerator
+  apps:
+  - Accenture | Adobe ABM Accelerator
+  listing_count: 1
+  partner: null
+  partner_match: null
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/1200059
+  category: Adobe Exchange Experience Cloud listing (Audience Manager, Campaign, Commerce, Experience Platform)
+  products:
+  - Audience Manager
+  - Campaign
+  - Commerce
+  - Experience Platform
+  - Experience Platform services
+  - Marketo Engage
+  - Target
+  partner_url: https://www.accenture.com/adobe
+  signal_note: Adobe Exchange listing (publisher website from the listing JSON the public browse page loads); listing
+    count and app names are context, never counted
+  detected_by: sweep-adobe-exchange.py
+  detected: '2026-10-23'
+  partner_tier: Adobe Platinum partner
+  partner_held:
+    candidate: accenture
+    why: 'market-fit gate: partner''s own tags carry no creative / media / marketing / analytics / content / commerce
+      / e-sign / work-management term'
+- partner_name: CData Software
+  app: CData Adobe Commerce Connectors
+  apps:
+  - CData Adobe Commerce Connectors
+  listing_count: 1
+  partner: null
+  partner_match: null
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/108072
+  category: Adobe Exchange Experience Cloud listing (Commerce)
+  products:
+  - Commerce
+  partner_url: https://www.cdata.com/
+  signal_note: Adobe Exchange listing (publisher website from the listing JSON the public browse page loads); listing
+    count and app names are context, never counted
+  detected_by: sweep-adobe-exchange.py
+  detected: '2026-10-23'
+  partner_tier: Adobe Silver partner
+  partner_held:
+    candidate: cdata
+    why: 'market-fit gate: partner''s own tags carry no creative / media / marketing / analytics / content / commerce
+      / e-sign / work-management term'
+- partner_name: Deloitte Consulting
+  app: Deloitte Digital | Connected Studio Powered by Adobe
+  apps:
+  - Deloitte Digital | Connected Studio Powered by Adobe
+  listing_count: 1
+  partner: null
+  partner_match: null
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/1200054
+  category: Adobe Exchange Experience Cloud listing (Advertising Cloud, Analytics, Campaign, Commerce)
+  products:
+  - Advertising Cloud
+  - Analytics
+  - Campaign
+  - Commerce
+  - Experience Platform apps
+  - Experience Platform services
+  - Marketo Engage
+  - Target
+  partner_url: www.deloitte.com
+  signal_note: Adobe Exchange listing (publisher website from the listing JSON the public browse page loads); listing
+    count and app names are context, never counted
+  detected_by: sweep-adobe-exchange.py
+  detected: '2026-10-23'
+  partner_tier: Adobe Platinum partner
+  partner_held:
+    candidate: deloitte
+    why: systems integrator / consultancy (Adobe solution listing), not a publisher of its own product
+- partner_name: Fiserv
+  app: Fiserv Payments
+  apps:
+  - Fiserv Payments
+  listing_count: 1
+  partner: fiserv
+  partner_match: domain+name-among-holders
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/108868
+  category: Adobe Exchange Experience Cloud listing (Commerce)
+  products:
+  - Commerce
+  partner_url: https://www.fiserv.com/
+  signal_note: Adobe Exchange listing (publisher website from the listing JSON the public browse page loads); listing
+    count and app names are context, never counted
+  detected_by: sweep-adobe-exchange.py
+  detected: '2026-10-23'
+  partner_tier: Adobe Gold partner
+- partner_name: GB Group plc
+  app: Loqate - Location Intelligence Services
+  apps:
+  - Loqate - Location Intelligence Services
+  listing_count: 1
+  partner: null
+  partner_match: null
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/109037
+  category: Adobe Exchange Experience Cloud listing (Commerce, Experience Platform)
+  products:
+  - Commerce
+  - Experience Platform
+  partner_url: https://www.gbgplc.com/en/
+  signal_note: Adobe Exchange listing (publisher website from the listing JSON the public browse page loads); listing
+    count and app names are context, never counted
+  detected_by: sweep-adobe-exchange.py
+  detected: '2026-10-23'
+  partner_tier: Adobe Silver partner
+  partner_held:
+    candidate: gbg
+    why: 'market-fit gate: partner''s own tags carry no creative / media / marketing / analytics / content / commerce
+      / e-sign / work-management term'
+- partner_name: INFOBIP LTD
+  app: Infobip Commerce Contact and Event Sync
+  apps:
+  - Infobip Commerce Contact and Event Sync
+  listing_count: 1
+  partner: infobip
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/600218
+  category: Adobe Exchange Experience Cloud listing (Commerce)
+  products:
+  - Commerce
+  partner_url: https://www.infobip.com/
+  signal_note: Adobe Exchange listing (publisher website from the listing JSON the public browse page loads); listing
+    count and app names are context, never counted
+  detected_by: sweep-adobe-exchange.py
+  detected: '2026-10-23'
+  partner_tier: Adobe Gold partner
+- partner_name: Infosys Limited
+  app: 'Blue Acorn iCi | CommerceEdge: Accelerated Delivery Solution'
+  apps:
+  - 'Blue Acorn iCi | CommerceEdge: Accelerated Delivery Solution'
+  - Blue Acorn iCi | Intelligent Commerce Foundation
+  - Infosys | Magento Quick Launch
+  - Infosys | Unified Reseller Network
+  listing_count: 4
+  partner: null
+  partner_match: null
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/1200100
+  category: Adobe Exchange Experience Cloud listing (Analytics, Commerce, Experience Platform apps, Experience Platform
+    services)
+  products:
+  - Analytics
+  - Commerce
+  - Experience Platform apps
+  - Experience Platform services
+  - Target
+  partner_url: http://infosys.com
+  signal_note: Adobe Exchange listing (publisher website from the listing JSON the public browse page loads); listing
+    count and app names are context, never counted
+  detected_by: sweep-adobe-exchange.py
+  detected: '2026-10-23'
+  partner_tier: Adobe Platinum partner
+  partner_held:
+    candidate: infosys
+    why: 'market-fit gate: partner''s own tags carry no creative / media / marketing / analytics / content / commerce
+      / e-sign / work-management term'
+- partner_name: Nuvei
+  app: Nuvei Payments Plugin for Adobe Commerce
+  apps:
+  - Nuvei Payments Plugin for Adobe Commerce
+  listing_count: 1
+  partner: nuvei
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/108008
+  category: Adobe Exchange Experience Cloud listing (Commerce)
+  products:
+  - Commerce
+  partner_url: www.nuvei.com
+  signal_note: Adobe Exchange listing (publisher website from the listing JSON the public browse page loads); listing
+    count and app names are context, never counted
+  detected_by: sweep-adobe-exchange.py
+  detected: '2026-10-23'
+  partner_tier: Adobe Gold partner
+- partner_name: PricewaterhouseCoopers LLP
+  app: PwC | Rapid Commerce Solution
+  apps:
+  - PwC | Rapid Commerce Solution
+  listing_count: 1
+  partner: null
+  partner_match: null
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/1200102
+  category: Adobe Exchange Experience Cloud listing (Commerce)
+  products:
+  - Commerce
+  partner_url: www.pwc.com
+  signal_note: Adobe Exchange listing (publisher website from the listing JSON the public browse page loads); listing
+    count and app names are context, never counted
+  detected_by: sweep-adobe-exchange.py
+  detected: '2026-10-23'
+  partner_tier: Adobe Platinum partner
+  partner_held:
+    candidate: pricewaterhousecoopers
+    why: systems integrator / consultancy (Adobe solution listing), not a publisher of its own product
+- partner_name: SAP SE
+  app: Emarsys Omnichannel Customer Engagement Platform
+  apps:
+  - Emarsys Omnichannel Customer Engagement Platform
+  listing_count: 1
+  partner: null
+  partner_match: null
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/106221
+  category: Adobe Exchange Experience Cloud listing (Commerce)
+  products:
+  - Commerce
+  partner_url: https://www.sap.com
+  signal_note: Adobe Exchange listing (publisher website from the listing JSON the public browse page loads); listing
+    count and app names are context, never counted
+  detected_by: sweep-adobe-exchange.py
+  detected: '2026-10-23'
+  partner_tier: Adobe Gold partner
+  partner_held:
+    candidate: sap
+    why: 'market-fit gate: partner''s own tags carry no creative / media / marketing / analytics / content / commerce
+      / e-sign / work-management term'
+- partner_name: Thomson Reuters Tax & Accounting, Inc.
+  app: ONESOURCE Indirect Tax Determination for Adobe Commerce
+  apps:
+  - ONESOURCE Indirect Tax Determination for Adobe Commerce
+  listing_count: 1
+  partner: null
+  partner_match: null
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/600078
+  category: Adobe Exchange Experience Cloud listing (Commerce)
+  products:
+  - Commerce
+  partner_url: https://tax.thomsonreuters.com/en/products/onesource-determination
+  signal_note: Adobe Exchange listing (publisher website from the listing JSON the public browse page loads); listing
+    count and app names are context, never counted
+  detected_by: sweep-adobe-exchange.py
+  detected: '2026-10-23'
+  partner_tier: Adobe Gold partner
+  partner_held:
+    candidate: thomson-reuters
+    why: 'market-fit gate: partner''s own tags carry no creative / media / marketing / analytics / content / commerce
+      / e-sign / work-management term'
+- partner_name: TransPerfect
+  app: GlobalLink for Adobe Commerce
+  apps:
+  - GlobalLink for Adobe Commerce
+  listing_count: 1
+  partner: transperfect
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/103755
+  category: Adobe Exchange Experience Cloud listing (Commerce)
+  products:
+  - Commerce
+  partner_url: https://www.transperfect.com/
+  signal_note: Adobe Exchange listing (publisher website from the listing JSON the public browse page loads); listing
+    count and app names are context, never counted
+  detected_by: sweep-adobe-exchange.py
+  detected: '2026-10-23'
+  partner_tier: Adobe Gold partner
+- partner_name: WORKATO, INC.
+  app: Workato Automation for Adobe Commerce
+  apps:
+  - Workato Automation for Adobe Commerce
+  listing_count: 1
+  partner: workato
+  partner_match: domain
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  relationship: platform-app
+  direction: partner-built
+  evidence: https://exchange.adobe.com/apps/ec/103198
+  category: Adobe Exchange Experience Cloud listing (Commerce)
+  products:
+  - Commerce
+  partner_url: www.workato.com
+  signal_note: Adobe Exchange listing (publisher website from the listing JSON the public browse page loads); listing
+    count and app names are context, never counted
+  detected_by: sweep-adobe-exchange.py
+  detected: '2026-10-23'
+  partner_tier: Adobe Silver partner
 templates: []
