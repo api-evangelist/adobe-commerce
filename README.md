@@ -1,4 +1,4 @@
-# Adobe Commerce (adobe-commerce)\n\nAPI and integration profile for Adobe Commerce.
+# Adobe Commerce
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -63,3 +63,96 @@
 >
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
+
+Adobe Commerce (formerly Magento Commerce) is an enterprise e-commerce platform for building and operating online storefronts, marketplaces, and B2B/B2C catalogs across web, mobile, and headless experiences. The Adobe Commerce Web APIs expose REST and GraphQL access to products, categories, customers, carts, orders, inventory, and configuration with OAuth 1.0a and token-based (Bearer) authentication against a merchant-hosted base URL.
+
+**Areas:** E-Commerce · Commerce · Magento · Adobe · Online Store · Marketplace
+
+## Adobe Commerce on APIs.io
+
+Everything profiled for Adobe Commerce is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/adobe-commerce/](https://apis.io/providers/adobe-commerce/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Adobe Commerce REST API](https://apis.io/apis/adobe-commerce/adobe-commerce-rest-api/) — REST API for Adobe Commerce providing access to products, catalogs, categories, customers, carts, checkout, orders, inventory, sales rules, CMS content, and…
+- [Adobe Commerce GraphQL API](https://apis.io/apis/adobe-commerce/adobe-commerce-graphql-api/) — GraphQL API for Adobe Commerce optimized for headless storefronts, progressive web apps, and mobile experiences. Provides queries and mutations for…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### GraphQL (1)
+
+GraphQL schemas.
+
+- [Adobe Commerce GraphQL API](https://apis.io/graphqls/adobe-commerce/adobe-commerce-graphql/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Adobe Commerce Domain Security](https://apis.io/security/adobe-commerce/adobe-commerce-domain-security/)
+- [Adobe Commerce Vulnerability Disclosure](https://apis.io/security/adobe-commerce/adobe-commerce-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://business.adobe.com/products/magento/magento-commerce.html)
+- [Documentation](https://developer.adobe.com/commerce/webapi/)
+- [Pricing](https://business.adobe.com/products/magento/magento-commerce.html)
+- [Support](https://experienceleague.adobe.com/en/docs/commerce)
+- [GitHub](https://github.com/magento)
+
+## API Evangelist rating
+
+**Kin Score 17.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 31.0 |
+| Access clarity | 18.4 |
+
+**Agent readiness 2.5** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 17.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adobe-commerce/](https://apis.io/providers/adobe-commerce/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Adobe Commerce: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/adobe-commerce/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
